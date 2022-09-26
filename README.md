@@ -30,8 +30,8 @@
    <li>**Add the main files and folders to the main branch.</li>
    <li>** Add the following files in separate commits-</li>
      <ol>
-       <li>A .html file for the skeletal makeup of the webpage.</li>
-       <li>A .css file for styling the webpage.</li>
+       <li>A .html file for the freeCodeCamp Survey Form.</li>
+       <li>A .css file for styling the freeCodeCamp Survey Form.</li>
      </ol>
    <li>**Open a pull request.</li>
    <li>**Submit the project for the code review.</li>
@@ -39,13 +39,13 @@
 </ol>
 
 ### Prerequisites
-Knowledge of HTML, CSS, Linters, Git & GitHub flows and documenting a repo in a professional way
+Knowledge of HTML, CSS, Linters, Git & GitHub flows and documenting a repo in a professional way.
 
 ### Setup
 A browser is required to be installed for view the contents and an Code editor to edit the code.
 
 ### Install
-Clone the repository and use a browser to open the index.html to view the portfolio webpage.
+Clone the repository and use a browser to open the index.html to view the freeCodeCamp Survey Form.
 
 ### Usage
 
