@@ -3,9 +3,7 @@
 
 
 > This project is about adding the freeCodeCamp Survey Form that I had created for my admission trials for Microverse and providing a code review for it. The code review requires to check for linter errors, examine whether the project code uses best practices for HTML and CSS and follows with the GitHub Flow rules and proper documentation of work. 
-                    I created a new repository and copied my code files that I had created for my project into a new feature branch to make the main branch remain in best possible condition and stable. I used VS  Code to check whether the project was working. Then, I had to  setup the linters to check for linter errors.
-
-                                       I used the linters - GitHub Actions, Lighthouse, Webhint and Stylelint.
+                    I created a new repository and copied my code files that I had created for my project into a new feature branch to make the main branch remain in best possible condition and stable. I used VS  Code to check whether the project was working. Then, I had to  setup the linters to check for linter errors. I used the linters - GitHub Actions, Lighthouse, Webhint and Stylelint.
    
 ## Built With 💻⌚️💡
 
